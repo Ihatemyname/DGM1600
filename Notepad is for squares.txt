@@ -1,4 +1,14 @@
 Notepad is lame, I require another program. I dont like that there is no boundrys for the text. :(
 
-It's really the spellcheck i need
+It's really the spellcheck i need, sorry but its true. My elementary school teachers would get so frustrated but it was like words become something else when
+they were written by someone else.
 
+I'm siting in Claytons class, he's teaching us about git hub. 
+
+I forgot how Kraken works
+
+<<<<<<< HEAD
+I forgot to listen to Clayton, sorry professor. 
+
+=======
+>>>>>>> master

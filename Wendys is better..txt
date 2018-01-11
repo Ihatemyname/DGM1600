@@ -1,2 +1,15 @@
 Mcdonalds is okay, Its not like we dont know what we're getting, but they discontinued their sweet chilli sauce and i cant let them get away with that. What i really
 need is a Wendys and Mcdonalds hybrid like tacobell keeps doing with every other resturaunt. Lets not be silly here, Mc'Ds chicken is much better.
+That being said I like the illusion Wendys gives where I cant actually taste the frying grease as opposed to Mcd's where there is alwasy a lingering taste of something else. 
+.....what does this have to do with scripting? I mean i get that we're using this to learn the software but i feel like we should be killing 2 birds with one stone. 
+Is anyone going to read this?
+
+I liked the original call of dutys, sometimes i dont need a story centirc game. 
+
+<<<<<<< HEAD
+30 is a bit too many commits dont you think?
+
+......actually I like Arbys best, they have the best Chicken strips and the Dijon mustard is delicious.
+=======
+30 is a bit too many commits dont you think?
+>>>>>>> master
